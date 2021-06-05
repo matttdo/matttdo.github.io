@@ -69,6 +69,9 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/matt-do-nola/"
 
+
+atom_feed:
+  hide: true
 # footer:
 #   links:
 #     - label: "Twitter"
@@ -88,6 +91,7 @@ defaults:
       type: posts
     values:
       layout: single
+      show_date: true
       author_profile: false
       read_time: false
       comments: false
