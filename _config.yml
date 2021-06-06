@@ -16,7 +16,7 @@
 title: Brain Dump
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Brain dump of various works from kaggle competitions to capture the flags.
+  Brain dump of various works and interests.
 github_username: matttdo
 minimal_mistakes_skin: dark
 search: true
@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Matt Do"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Brain dump of various works from kaggle competitions to capture the flags."
+  bio    : "Dumping grounds for various works and interests."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
